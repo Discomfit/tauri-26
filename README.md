@@ -1,5 +1,5 @@
 # Tauri 26
-This is the latest version of Tauri v2 but merged with (https://github.com/tauri-apps/tauri/pull/14671)[this PR].
+This is the latest version of Tauri v2 but merged with [this PR](https://github.com/tauri-apps/tauri/pull/14671).
 
 It adds support for MacOS Tahoe 26.X Themed icons such as Clear, and DarkMode I didn't make the original PR it was made by someone else I just merged them for Zeo and other future Tauri Projects.
 
